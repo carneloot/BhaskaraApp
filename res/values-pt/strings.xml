@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bhaskara</string>
+    <string name="btnCalcularText">Calcular</string>
+    <string name="btnLimparText">Limpar</string>
+    <string name="deltaNegativo">Delta negativo</string>
+    <string name="deltaPositivo">Delta positivo</string>
+    <string name="lblTitleText">Fórmula de Bhaskara</string>
+</resources>

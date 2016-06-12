@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bhaskara</string>
+
+    <string name="lblTitleText">Fórmula de Bhaskara</string>
+    <string name="lblSubTitleText" translatable="false">ax² + bx + c = 0</string>
+    <string name="lblResultadoText" translatable="false"> </string>
+
+    <string name="txtAHint" translatable="false">a</string>
+    <string name="txtBHint" translatable="false">b</string>
+    <string name="txtCHint" translatable="false">c</string>
+
+    <string name="btnCalcularText">Calcular</string>
+    <string name="btnLimparText">Limpar</string>
+
+    <string name="deltaPositivo">Delta positivo</string>
+    <string name="deltaNegativo">Delta negativo</string>
+    <string name="title_activity_resolucao">Resolução</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
